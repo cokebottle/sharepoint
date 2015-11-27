@@ -5,3 +5,4 @@ python sharep.py --url https://[your_sharepoint_instance] --file url.txt
 usage: sharep.py [-h] [--url URL] --file FILE
 ```
 
+Created by Cosmin Ciobanu
