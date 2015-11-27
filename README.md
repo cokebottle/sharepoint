@@ -1,6 +1,6 @@
 #Sharepoint Scanner
 
-python sharep.py --url https://cooperation.enisa.europa.eu --file url.txt
+python sharep.py --url https://<your_sharepoint_instance> --file url.txt
 usage: sharep.py [-h] [--url URL] --file FILE
 
 Sharepoint Scanner
